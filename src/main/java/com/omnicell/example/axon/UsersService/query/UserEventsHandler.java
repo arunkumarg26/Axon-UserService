@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.appsdeveloperblog.estore.UsersService.query;
+package com.omnicell.example.axon.UsersService.query;
 
 import org.axonframework.queryhandling.QueryHandler;
 import org.springframework.stereotype.Component;
 
-import com.appsdeveloperblog.estore.core.model.PaymentDetails;
-import com.appsdeveloperblog.estore.core.model.User;
-import com.appsdeveloperblog.estore.core.query.FetchUserPaymentDetailsQuery;
+import com.omnicell.example.axon.core.model.PaymentDetails;
+import com.omnicell.example.axon.core.model.User;
+import com.omnicell.example.axon.core.query.FetchUserPaymentDetailsQuery;
  
 
 @Component

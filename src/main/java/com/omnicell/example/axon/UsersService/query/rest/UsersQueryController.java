@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.appsdeveloperblog.estore.UsersService.query.rest;
+package com.omnicell.example.axon.UsersService.query.rest;
  
 import org.axonframework.messaging.responsetypes.ResponseTypes;
 import org.axonframework.queryhandling.QueryGateway;
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.appsdeveloperblog.estore.core.model.User;
-import com.appsdeveloperblog.estore.core.query.FetchUserPaymentDetailsQuery;
+import com.omnicell.example.axon.core.model.User;
+import com.omnicell.example.axon.core.query.FetchUserPaymentDetailsQuery;
 
 @RestController
 @RequestMapping("/users")

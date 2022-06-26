@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.estore.UsersService;
+package com.omnicell.example.axon.UsersService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

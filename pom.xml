@@ -8,7 +8,7 @@
         <version>2.4.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.appsdeveloperblog.estore</groupId>
+    <groupId>com.omnicell.example.axon</groupId>
     <artifactId>UsersService</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>UsersService</name>
@@ -31,7 +31,7 @@
 
         
 		<dependency>
-			<groupId>com.appsdeveloperblog.estore</groupId>
+			<groupId>com.omnicell.example.axon</groupId>
 			<artifactId>core</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
